@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VasylDotDev
-- 👀 I’m interested in Web-development
-- 🌱 I’m currently learning AngularJS
-- 💞️ I’m looking to collaborate on Shopify and NFT projects
+- 👀 I’m interested in Shopify App development
+- 🌱 I’m currently learning Shopify API
+- 💞️ I’m looking to collaborate on Shopify related projects
 - 📫 How to reach me hello@vasyl.dev
 
 <!---
